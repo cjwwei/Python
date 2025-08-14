@@ -1,5 +1,5 @@
-## Python Project by wei
--# Machine Learning
+### Python Project by JW Chang
+- Machine Learning
   - Counrtry Health  
     https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
   - Credit Card Fraud Detection  
