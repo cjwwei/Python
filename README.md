@@ -1,3 +1,3 @@
-Record the project I made.
+# Record the project I made.
 --------------------------
-Machine Learning
+## Machine Learning
