@@ -1,2 +1,11 @@
 # Record the project I made.
-## Machine Learning
+- Machine Learning
+  - Counrtry Health
+  - Credit Card Fraud Detection
+  - Digit Recognizer
+  - House Prices
+  - IMDB
+  - Iris Species
+  - Mall Customer Segmentation
+  - SMS Spam Collection
+  - Titanic
