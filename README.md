@@ -1,4 +1,4 @@
-# Python Project bye wei
+# Python Project by wei
 - Machine Learning
   - Counrtry Health
   - Credit Card Fraud Detection
