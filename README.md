@@ -1,4 +1,4 @@
-# Record the project I made.
+# Python Project
 - Machine Learning
   - Counrtry Health
   - Credit Card Fraud Detection
