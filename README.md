@@ -1,4 +1,4 @@
 # Project
-This is for improving, self-learning and future.
+This is for improving and self-learning.
 - Python
   - [Machine Learning](https://github.com/cjwwei/Python/tree/main/Machine%20Learning)
